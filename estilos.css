@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    h1{
+        color: rgb(27, 22, 21);
+    }
+    .boton{
+    color: rgb(120, 0, 0);
+    background-color: rgb(237, 135, 68);
+    padding: 8px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin: 20px auto;    /* centra horizontalmente */
+    width: 300px;         /* alarga el botón */
+    }
+    form {
+  background-color: #f89c9c;   /* color de fondo */
+  padding: 20px;              /* espacio interno */
+  border-radius: 10px;        /* bordes redondeados */
+  width: 300px;               /* ancho del formulario */
+  margin: 0 auto; 
+}
+  .anotar{
+    width: 265px;  
+    border-radius: 10px; 
+    border: 3px solid #df6502;   /* borde más grueso */
+    padding: 10px 15px;       /* aumenta el tamaño del input */
+  }
+
+  .otro{
+    color: #7c000c;
+  }
+}
